@@ -1,6 +1,7 @@
 # java开发学习路线
 
-http://assets.processon.com/chart_image/62cc5da8f346fb06f55959fa.png?_=1658384699308
+[学习路线](http://assets.processon.com/chart_image/62cc5da8f346fb06f55959fa.png?_=1658384699308)
+
 本套学习路线建议配上这个图片享用，我会给大家提供更多的学习路线但是并不一定每个都需要学习，有的建议是选学！
 
 ## 第一部分——java基础阶段
