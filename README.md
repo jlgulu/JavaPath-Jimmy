@@ -332,6 +332,8 @@ https://www.codetd.com/article/14174293
 本套课程从详细讲解了RabbitMQ各种工作模式，应用场景，还讲解了其高级特性如：可靠消息、死信队列、延迟队列、日志监控、消息补偿、消息幂等性、集群搭建等，全面切深入。不仅可以在项目中游刃有余的使用RabbitMQ，还可以解决各种消息队列使用过程中遇到的问题与瓶颈。
 [消息队列 RabbitMQ](https://www.bilibili.com/video/BV15k4y1k7Ep)
 
+[siki学院消息队列RabbitMQ]([RabbitMQ消息中间件快速入门（基于IDEA2018） - SiKi学院 - 生命不息，学习不止！ (sikiedu.com)](https://www.sikiedu.com/course/629))
+
 #### 消息队列 RocketMQ
 
 阿里巴巴开源的RocketMQ，经过了双11这种高并发场景考验，其稳定性可靠的，且方便初学者快速上手。本套课程能够快速掌握分布式系统中消息中间件的各种应用场景，了解常见问题和解决方案及其原理，在应用实战中，快速掌握RocketMQ。
@@ -345,7 +347,10 @@ https://www.codetd.com/article/14174293
 #### NoSQL技术Redis
 
 Redis是目前互联网世界公认的最为流行的 NoSQL数据库，Redis以其强大的数据处理效率在企业级数据高级处理领域一直占据着主流地位。本套课程超过50个案例场景贯穿整体课程，包含20多个企业实际问题，轻松搭建Redis集群，真正解决企业级开发三高（高并发、高性能、高可用）问题。
-https://www.bilibili.com/video/BV1cr4y1671t
+[NoSQL技术Redis](https://www.bilibili.com/video/BV1cr4y1671t)
+
+[redis从入门到实战「实战篇」](https://www.sikiedu.com/course/1000)
+[redis6.x从入门到实战「理论篇」](https://www.sikiedu.com/course/981)
 
 #### NoSQL技术MongoDB
 
