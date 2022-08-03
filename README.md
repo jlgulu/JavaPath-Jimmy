@@ -1,6 +1,6 @@
 # java开发学习路线
 
-[学习路线](http://assets.processon.com/chart_image/62cc5da8f346fb06f55959fa.png?_=1658384699308)
+![学习路线](http://assets.processon.com/chart_image/62cc5da8f346fb06f55959fa.png?_=1658384699308)
 
 本套学习路线建议配上这个图片享用，我会给大家提供更多的学习路线但是并不一定每个都需要学习，有的建议是选学！
 
@@ -49,6 +49,8 @@ B站黑马程序员出的这个视频也是非常不错的，适合零基础开�
 
 [《Java 核心技术卷 1+卷 2》](https://book.douban.com/subject/25762168/)（推荐）: 很棒的两本书，建议有点 Java 基础之后再读，介绍的还是比较深入的，非常推荐。这两本书我一般也会用来巩固知识点，是两本适合放在自己身边的好书。
 
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659504150667.png)
+
 ## 第二阶段：数据库
 
 当下大部分企业都是用关系数据库来储存数据，目前主流的数据库有MySQL、Oracle、SQL Server等等，其中最具代表性的就是MySQL。你只需要搞定一个就可以了，知识都是相通的，一通百通。目前公司里用到MySQL的比较多，所以建议大家学习MySQL数据库和一个nosql数据库redis即可。
@@ -89,7 +91,14 @@ Redis 在线练习：https://try.redis.io/
 ##### 书籍推荐
 
 [《深入理解MySQL核心技术》](https://book.douban.com/subject/4022870/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659504204050.png)
+
 [《Redis 深度历险：核心原理与应用实战》](https://book.douban.com/subject/30386804/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659504271907.png)
+
+
 
 ## 第三阶段：Java Web
 
@@ -122,7 +131,12 @@ Java开发的岗位大多是Web开发，所以最好学一学前端的基础，�
 ##### 书籍推荐
 
 [《java web开发实战经典》](https://book.douban.com/subject/5040112/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659504364796.png)
+
 [《Tomcat与JavaWeb开发技术详解》](https://book.douban.com/subject/34780582/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659504271907.png)
 
 ## 第四阶段：Java开发框架
 
@@ -191,9 +205,20 @@ SpingBoot中文文档：https://www.docs4dev.com/docs/zh/spring-boot/2.1.1.RELEA
 ##### 书籍推荐
 
 [《Spring实战》](https://potoyang.gitbook.io/spring-in-action-v5/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505040886.png)
+
 [《Spring微服务实战》](https://book.douban.com/subject/30233791/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505098193.png)
+
 [《Maven实战》](https://book.douban.com/subject/5345682/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505123312.png)
+
 [《MyBatis技术内幕》](https://book.douban.com/subject/27087564/)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505154413.png)
 
 ## 第五阶段：管理系统的项目
 
@@ -424,8 +449,13 @@ LeetCode：https://leetcode-cn.com/
 
 #### 4.2书籍
 
-[《小灰的漫画算法》](https://www.manongbook.com/other/1124.html)
+[《小灰的漫画算法》 ](https://www.manongbook.com/other/1124.html)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505217870.png)
+
 [《剑指Offer》](https://item.jd.com/12163054.html?cu=true&utm_source=zhuanlan.zhihu.com&utm_medium=tuiguang&utm_campaign=t_1001542270_1002863852_4000171112_3002458638&utm_term=01670e464d86421f80460561f78fd225)
+
+![image-20220803132235129](C:\Users\18738\Documents\GitHub\JavaPath-Jimmy\1659505266794.png)
 
 #### 4.3视频
 
